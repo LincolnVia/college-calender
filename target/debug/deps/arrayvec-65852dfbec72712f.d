@@ -1,0 +1,11 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/arrayvec-65852dfbec72712f.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/arrayvec_impl.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/arrayvec.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/array_string.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/char.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/errors.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/utils.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libarrayvec-65852dfbec72712f.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/arrayvec_impl.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/arrayvec.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/array_string.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/char.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/errors.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/utils.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/arrayvec_impl.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/arrayvec.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/array_string.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/char.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/errors.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.8/src/utils.rs:

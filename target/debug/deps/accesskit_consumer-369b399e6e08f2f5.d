@@ -1,0 +1,10 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/accesskit_consumer-369b399e6e08f2f5.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/tree.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/node.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/filters.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/iterators.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/text.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libaccesskit_consumer-369b399e6e08f2f5.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/tree.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/node.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/filters.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/iterators.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/text.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/tree.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/node.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/filters.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/iterators.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.26.0/src/text.rs:

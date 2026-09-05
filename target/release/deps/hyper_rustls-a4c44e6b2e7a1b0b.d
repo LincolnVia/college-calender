@@ -1,0 +1,11 @@
+/Users/lincoln/projects/college_cal/target/release/deps/hyper_rustls-a4c44e6b2e7a1b0b.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/config.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector/builder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/stream.rs
+
+/Users/lincoln/projects/college_cal/target/release/deps/libhyper_rustls-a4c44e6b2e7a1b0b.rlib: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/config.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector/builder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/stream.rs
+
+/Users/lincoln/projects/college_cal/target/release/deps/libhyper_rustls-a4c44e6b2e7a1b0b.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/config.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector/builder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/stream.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/config.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/connector/builder.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.9/src/stream.rs:

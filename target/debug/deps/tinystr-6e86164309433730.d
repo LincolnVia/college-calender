@@ -1,0 +1,12 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/tinystr-6e86164309433730.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/macros.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/ascii.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/asciibyte.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/error.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/int_ops.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/unvalidated.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/ule.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libtinystr-6e86164309433730.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/macros.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/ascii.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/asciibyte.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/error.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/int_ops.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/unvalidated.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/ule.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/macros.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/ascii.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/asciibyte.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/error.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/int_ops.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/unvalidated.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.4/src/ule.rs:

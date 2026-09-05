@@ -1,0 +1,12 @@
+/Users/lincoln/projects/college_cal/target/release/deps/fax-34ebd1d6cb23bf72.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/maps.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/decoder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/encoder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/tiff.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/bitmaps.rs
+
+/Users/lincoln/projects/college_cal/target/release/deps/libfax-34ebd1d6cb23bf72.rlib: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/maps.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/decoder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/encoder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/tiff.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/bitmaps.rs
+
+/Users/lincoln/projects/college_cal/target/release/deps/libfax-34ebd1d6cb23bf72.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/maps.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/decoder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/encoder.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/tiff.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/bitmaps.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/maps.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/decoder.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/encoder.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/tiff.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.7/src/bitmaps.rs:

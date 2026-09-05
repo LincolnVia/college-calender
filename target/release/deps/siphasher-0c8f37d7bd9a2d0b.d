@@ -1,0 +1,11 @@
+/Users/lincoln/projects/college_cal/target/release/deps/siphasher-0c8f37d7bd9a2d0b.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/common.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip128.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/../README.md
+
+/Users/lincoln/projects/college_cal/target/release/deps/libsiphasher-0c8f37d7bd9a2d0b.rlib: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/common.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip128.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/../README.md
+
+/Users/lincoln/projects/college_cal/target/release/deps/libsiphasher-0c8f37d7bd9a2d0b.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/common.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip128.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/../README.md
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/common.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/sip128.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.3/src/../README.md:

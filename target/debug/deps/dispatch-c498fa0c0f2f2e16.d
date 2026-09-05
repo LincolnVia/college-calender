@@ -1,0 +1,12 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/dispatch-c498fa0c0f2f2e16.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libdispatch-c498fa0c0f2f2e16.rlib: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libdispatch-c498fa0c0f2f2e16.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs:

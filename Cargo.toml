@@ -1,0 +1,16 @@
+[package]
+name = "college-cal"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4"
+chrono-tz = "0.10"
+eframe = { version = "0.31", features = ["persistence"] }
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "rustls-tls"] }
+rfd = "0.15"
+serde = { version = "1", features = ["derive"] }
+
+[profile.release]
+strip = true
+lto = "thin"

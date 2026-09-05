@@ -1,0 +1,12 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/bitflags-7a32e7774144d9ac.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/iter.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/parser.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/traits.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/public.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/internal.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/external.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/external/serde.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libbitflags-7a32e7774144d9ac.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/iter.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/parser.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/traits.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/public.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/internal.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/external.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/external/serde.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/iter.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/parser.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/traits.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/public.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/internal.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/external.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.1/src/external/serde.rs:

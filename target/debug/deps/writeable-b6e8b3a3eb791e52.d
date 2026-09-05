@@ -1,0 +1,12 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/writeable-b6e8b3a3eb791e52.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/cmp.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/concat.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/impls.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/ops.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/parts_write_adapter.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/replace.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/try_writeable.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libwriteable-b6e8b3a3eb791e52.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/cmp.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/concat.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/impls.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/ops.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/parts_write_adapter.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/replace.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/try_writeable.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/cmp.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/concat.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/impls.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/ops.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/parts_write_adapter.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/replace.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.4/src/try_writeable.rs:

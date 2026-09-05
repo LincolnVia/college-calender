@@ -1,0 +1,10 @@
+/Users/lincoln/projects/college_cal/target/debug/deps/zerovec_derive-4df6ce2334f13420.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/make_ule.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/make_varule.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/ule.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/utils.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/varule.rs
+
+/Users/lincoln/projects/college_cal/target/debug/deps/libzerovec_derive-4df6ce2334f13420.dylib: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/make_ule.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/make_varule.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/ule.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/utils.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/varule.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/make_ule.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/make_varule.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/ule.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/utils.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.6/src/varule.rs:
