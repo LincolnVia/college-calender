@@ -1,7 +1,7 @@
 # College Cal
 
-A small Rust desktop dashboard for an ICS class calendar. It shows the class in
-progress, a live time-remaining bar, and the next class.
+A small Rust desktop dashboard for ICS class calendars. It shows the class in
+progress, a live time-remaining bar, the next class, and a weekly schedule.
 
 ## Run
 
@@ -9,9 +9,19 @@ progress, a live time-remaining bar, and the next class.
 cargo run --release
 ```
 
-Paste an `https://` or `webcal://` address into **Calendar source**, or select
-**Browse…** to choose a local `.ics` file. The value is saved locally by the app
-and refreshed every 15 minutes.
+Select **Calendar** to add one or more calendars. Enter a calendar name first,
+then use **Browse…** for a local `.ics` file or paste an `https://` or `webcal://`
+address. The sources, names, and main-calendar choice are saved locally as soon
+as they change and the calendars are refreshed every 15 minutes.
+
+Any `.ics` or `.ical` files placed in the project's `ics/` directory are added
+automatically at startup and whenever the calendars refresh.
+
+Use the **Main calendar** dropdown on the Dashboard tab to choose which named
+calendar supplies its current class, next class, and weekly schedule.
+
+The **Compare timeline** tab shows the current week's time ranges where at least
+one named calendar has an event while another calendar is free.
 
 You can also provide the source on first launch:
 

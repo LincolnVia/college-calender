@@ -1,1 +1,1 @@
-/Users/lincoln/projects/college_cal/target/debug/college-cal: /Users/lincoln/projects/college_cal/src/main.rs
+/Users/lincoln/projects/rust/education/college-calender/target/debug/college-cal: /Users/lincoln/projects/rust/education/college-calender/src/main.rs

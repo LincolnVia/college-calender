@@ -1,0 +1,1 @@
+{"rustc":16366243165657216489,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[11029742160753049355,"build_script_build",false,2756957782406614402]],"local":[{"RerunIfChanged":{"output":"aarch64-apple-ios/debug/build/serde_core-45d74b4b41aa6d2d/output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}

@@ -1,0 +1,10 @@
+/Users/lincoln/projects/rust/education/college-calender/target/aarch64-apple-ios/debug/deps/crc32fast-8a83023d14cf113f.d: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/baseline.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/combine.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/specialized/mod.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/table.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/specialized/aarch64.rs
+
+/Users/lincoln/projects/rust/education/college-calender/target/aarch64-apple-ios/debug/deps/libcrc32fast-8a83023d14cf113f.rmeta: /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/lib.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/baseline.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/combine.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/specialized/mod.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/table.rs /Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/specialized/aarch64.rs
+
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/lib.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/baseline.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/combine.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/specialized/mod.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/table.rs:
+/Users/lincoln/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.5.1/src/specialized/aarch64.rs:
