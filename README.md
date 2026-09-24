@@ -3,6 +3,8 @@
 A small Rust desktop dashboard for ICS class calendars. It shows the class in
 progress, a live time-remaining bar, the next class, and a weekly schedule.
 
+Project was entirely vibe coded in codex using 5.6sol
+
 ## Run
 
 ```sh
